@@ -1,0 +1,36 @@
+.label {
+    padding-right: .7em;
+    padding-bottom: .2em;
+}
+
+.table {
+    font-size: 24px;
+    color: #ffffff;
+    background-color: rgba(10,10,10,0.7);
+    line-height: 20px;
+    border-radius: 5px;
+    padding: .5em;
+}
+
+.small {
+     font-size: 80%;
+}
+
+.big {
+     font-size: 120%;
+}
+
+.header {
+     font-size: 110%;
+     font-weight: bold;
+     text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+    padding-right: .7em;
+}
+
+.column {
+    padding: 2.0em 1.5em;
+}

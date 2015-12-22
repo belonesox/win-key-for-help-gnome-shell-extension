@@ -1,0 +1,7 @@
+{
+  "shell-version": ["3.12", "3.12.1", "3.12.2", "3.16", "3.18"],
+  "uuid": "win-key-for-help-gnome-shell-extension@belonesox.github.com",
+  "name": "Win key for help", 
+  "description": "Extension for showing a list of hot keys when Win key holding down.",
+  "gettext-domain": "win-key-for-help"
+}
